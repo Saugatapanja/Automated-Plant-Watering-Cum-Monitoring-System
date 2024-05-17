@@ -23,14 +23,14 @@ Program: Arduino code that reads sensor data and controls watering based on mois
 
 ![image](https://github.com/Saugatapanja/Automated-Plant-Watering-Cum-Monitoring-System/assets/103821949/f53b3954-0ce6-4f52-9b32-6a400662f908)
 
-Data Flow Diagram
+Data Flow Diagram:
 A Data Flow Diagram (DFD) is a visual representation of the flow of data within an information system. It illustrates the incoming data flow, outgoing data flow, and stored data in a graphical format.
 
 ![image](https://github.com/Saugatapanja/Automated-Plant-Watering-Cum-Monitoring-System/assets/103821949/3cf52735-919c-46d6-9daf-33169408ddb5)
 
 ![image](https://github.com/Saugatapanja/Automated-Plant-Watering-Cum-Monitoring-System/assets/103821949/61205af5-adc7-4142-8137-c7411a8a0189)
 
-Demonstration
+Demonstration:
 
 Here, we explain how to get the system to work. This project is very easy to use.
 Step 1:
